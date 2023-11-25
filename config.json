@@ -1,0 +1,8 @@
+{
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkNsODdxazVUMk5lZDFKVHpsQzNyRSIsIm5jIjoiMjlJVDdtcTVUZTkyY0Rwci1SNUR3IiwiaWF0IjoxNzAwNjUxMDExLCJleHAiOjE3MDMyNDMwMTF9.89oduEm6pceTFHgXrfPYVTLE4l_lGCdMPNdDVohaMG4",
+    "negative_prompt": "nsfw, lowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]",
+    "scale": 8,
+    "steps": 28,
+    "width": 1024,
+    "height": 640
+}
